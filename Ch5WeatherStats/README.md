@@ -1,5 +1,6 @@
 # Weather Stats
-This program gets the path of the RAWS weather file containing weather data formatted as follows (columns in order):
+This program gets the path of the RAWS weather file (in the x64 folder) containing weather data formatted
+as follows (columns in order):
 - Month (Integer)
 - Day (Integer) 
 - Precipitation – the daily rain amount specified in hundredths of an inch or millimeters (Integer)
