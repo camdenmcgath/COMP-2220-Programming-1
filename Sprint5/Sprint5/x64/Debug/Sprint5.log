@@ -1,0 +1,3 @@
+﻿  Sprint5.cpp
+C:\Users\clm29\source\repos\Programming1\Sprint5\Sprint5\Sprint5.cpp(399): warning C4715: 'distanceCalc': not all control paths return a value
+  Sprint5.vcxproj -> C:\Users\clm29\source\repos\Programming1\Sprint5\x64\Debug\Sprint5.exe

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "afaf9f34-5a26-4a44-b080-8382846888fd": {
+      "ProjectGuid": "afaf9f34-5a26-4a44-b080-8382846888fd",
+      "DisplayName": "Ch5WeatherStats",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
