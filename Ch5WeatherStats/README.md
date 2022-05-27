@@ -1,5 +1,5 @@
 # Weather Stats
-This program gets the path of the RAWS weather file (in the x64 folder) containing weather data formatted
+This program gets the path of the RAWS weather file (in the Ch5WeatherStats folder) containing weather data formatted
 as follows (columns in order):
 - Month (Integer)
 - Day (Integer) 
